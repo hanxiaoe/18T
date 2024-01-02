@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Power_Armor_18T.mk
+    $(LOCAL_DIR)/twrp_18T.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Power_Armor_18T-user \
-    twrp_Power_Armor_18T-userdebug \
-    twrp_Power_Armor_18T-eng
+    twrp_18T-user \
+    twrp_18T-userdebug \
+    twrp_18T-eng
