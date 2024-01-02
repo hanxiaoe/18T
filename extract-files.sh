@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=18T
+DEVICE=Power_Armor_18T
 VENDOR=ulefone
 
 # Load extract_utils and do some sanity checks
